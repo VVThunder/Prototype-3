@@ -703,7 +703,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030907db047778b40941d0f74e027389, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 738283945829175758, guid: 5951facbbc05fe34e80cad2f5600bc58, type: 3}
+  obstaclePrefabs:
+  - {fileID: 738283945829175758, guid: 5951facbbc05fe34e80cad2f5600bc58, type: 3}
+  - {fileID: 7069826979573344039, guid: 8664d2f0067f5334f8fbb954f580968c, type: 3}
+  - {fileID: 1738951932042075118, guid: bdfe9f032d029784bb0995d9cf76db28, type: 3}
+  - {fileID: 5630195765405124550, guid: cf7b6224aad7e294f8883e5a8da39626, type: 3}
 --- !u!4 &1299497827
 Transform:
   m_ObjectHideFlags: 0
